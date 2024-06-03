@@ -1,0 +1,10 @@
+adet:1240
+me:300
+test:100
+Dummy:0
+Dummy:0
+Dummy:0
+Dummy:0
+Dummy:0
+Dummy:0
+Dummy:0
